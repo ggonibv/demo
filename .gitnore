@@ -1,0 +1,6 @@
+.env
+.history
+env
+venv
+*.log
+
